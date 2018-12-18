@@ -1,0 +1,9 @@
+zappjs:
+  zapp-generator-readme:
+    version: v0.1.0
+  zapp-generator-react:
+    version: v0.1.0
+  zapp-generator-webpack:
+    version: v0.1.0
+  zapp-generator-npm:
+    version: v0.1.0

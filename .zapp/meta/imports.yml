@@ -1,0 +1,33 @@
+/:
+  keys:
+    - github.com
+/github.com:
+  keys:
+    - zappjs
+/github.com/zappjs:
+  keys:
+    - zapp-generator-readme
+    - zapp-generator-react
+    - zapp-generator-webpack
+    - zapp-generator-npm
+/github.com/zappjs/zapp-generator-npm:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-react:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-react-1:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-readme:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-readme-1:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-webpack:
+  keys:
+    - version
+/github.com/zappjs/zapp-generator-webpack-1:
+  keys:
+    - version

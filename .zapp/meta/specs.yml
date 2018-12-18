@@ -1,0 +1,7 @@
+/:
+  keys:
+    - app
+/app:
+  keys:
+    - name
+    - version
